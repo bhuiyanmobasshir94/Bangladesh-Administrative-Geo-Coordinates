@@ -1,0 +1,1350 @@
+division_id,district_id,upazila,postOffice,postCode
+1,34,Amtali,Amtali,8710
+1,34,Bamna,Bamna,8730
+1,34,Barguna Sadar,Barguna Sadar,8700
+1,34,Barguna Sadar,Nali Bandar,8701
+1,34,Betagi,Betagi,8740
+1,34,Betagi,Darul Ulam,8741
+1,34,Patharghata,Kakchira,8721
+1,34,Patharghata,Patharghata,8720
+1,35,Agailzhara,Agailzhara,8240
+1,35,Agailzhara,Gaila,8241
+1,35,Agailzhara,Paisarhat,8242
+1,35,Babuganj,Babuganj,8210
+1,35,Babuganj,Barisal Cadet,8216
+1,35,Babuganj,Chandpasha,8212
+1,35,Babuganj,Madhabpasha,8213
+1,35,Babuganj,Nizamuddin College,8215
+1,35,Babuganj,Rahamatpur,8211
+1,35,Babuganj,Thakur Mallik,8214
+1,35,Barajalia,Barajalia,8260
+1,35,Barajalia,Osman Manjil,8261
+1,35,Barisal Sadar,Barisal Sadar,8200
+1,35,Barisal Sadar,Bukhainagar,8201
+1,35,Barisal Sadar,Jaguarhat,8206
+1,35,Barisal Sadar,Kashipur,8205
+1,35,Barisal Sadar,Patang,8204
+1,35,Barisal Sadar,Saheberhat,8202
+1,35,Barisal Sadar,Sugandia,8203
+1,35,Gouranadi,Batajor,8233
+1,35,Gouranadi,Gouranadi,8230
+1,35,Gouranadi,Kashemabad,8232
+1,35,Gouranadi,Tarki Bandar,8231
+1,35,Mahendiganj,Langutia,8274
+1,35,Mahendiganj,Laskarpur,8271
+1,35,Mahendiganj,Mahendiganj,8270
+1,35,Mahendiganj,Nalgora,8273
+1,35,Mahendiganj,Ulania,8272
+1,35,Muladi,Charkalekhan,8252
+1,35,Muladi,Kazirchar,8251
+1,35,Muladi,Muladi,8250
+1,35,Sahebganj,Charamandi,8281
+1,35,Sahebganj,kalaskati,8284
+1,35,Sahebganj,Padri Shibpur,8282
+1,35,Sahebganj,Sahebganj,8280
+1,35,Sahebganj,Shialguni,8283
+1,35,Uzirpur,Dakuarhat,8223
+1,35,Uzirpur,Dhamura,8221
+1,35,Uzirpur,Jugirkanda,8222
+1,35,Uzirpur,Shikarpur,8224
+1,35,Uzirpur,Uzirpur,8220
+1,36,Bhola Sadar,Bhola Sadar,8300
+1,36,Bhola Sadar,Joynagar,8301
+1,36,Borhanuddin UPO,Borhanuddin UPO,8320
+1,36,Borhanuddin UPO,Mirzakalu,8321
+1,36,Charfashion,Charfashion,8340
+1,36,Charfashion,Dularhat,8341
+1,36,Charfashion,Keramatganj,8342
+1,36,Doulatkhan,Doulatkhan,8310
+1,36,Doulatkhan,Hajipur,8311
+1,36,Hajirhat,Hajirhat,8360
+1,36,Hatshoshiganj,Hatshoshiganj,8350
+1,36,Lalmohan UPO,Daurihat,8331
+1,36,Lalmohan UPO,Gazaria,8332
+1,36,Lalmohan UPO,Lalmohan UPO,8330
+1,37,Jhalokathi Sadar,Baukathi,8402
+1,37,Jhalokathi Sadar,Gabha,8403
+1,37,Jhalokathi Sadar,Jhalokathi Sadar,8400
+1,37,Jhalokathi Sadar,Nabagram,8401
+1,37,Jhalokathi Sadar,Shekherhat,8404
+1,37,Kathalia,Amua,8431
+1,37,Kathalia,Kathalia,8430
+1,37,Kathalia,Niamatee,8432
+1,37,Kathalia,Shoulajalia,8433
+1,37,Nalchhiti,Beerkathi,8421
+1,37,Nalchhiti,Nalchhiti,8420
+1,37,Rajapur,Rajapur,8410
+1,38,Bauphal,Bagabandar,8621
+1,38,Bauphal,Bauphal,8620
+1,38,Bauphal,Birpasha,8622
+1,38,Bauphal,Kalaia,8624
+1,38,Bauphal,Kalishari,8623
+1,38,Dashmina,Dashmina,8630
+1,38,Galachipa,Galachipa,8640
+1,38,Galachipa,Gazipur Bandar,8641
+1,38,Khepupara,Khepupara,8650
+1,38,Khepupara,Mahipur,8651
+1,38,Patuakhali Sadar,Dumkee,8602
+1,38,Patuakhali Sadar,Moukaran,8601
+1,38,Patuakhali Sadar,Patuakhali Sadar,8600
+1,38,Patuakhali Sadar,Rahimabad,8603
+1,38,Subidkhali,Subidkhali,8610
+1,39,Banaripara,Banaripara,8530
+1,39,Banaripara,Chakhar,8531
+1,39,Bhandaria,Bhandaria,8550
+1,39,Bhandaria,Dhaoa,8552
+1,39,Bhandaria,Kanudashkathi,8551
+1,39,kaukhali,Jolagati,8513
+1,39,kaukhali,Joykul,8512
+1,39,kaukhali,Kaukhali,8510
+1,39,kaukhali,Keundia,8511
+1,39,Mathbaria,Betmor Natun Hat,8565
+1,39,Mathbaria,Gulishakhali,8563
+1,39,Mathbaria,Halta,8562
+1,39,Mathbaria,Mathbaria,8560
+1,39,Mathbaria,Shilarganj,8566
+1,39,Mathbaria,Tiarkhali,8564
+1,39,Mathbaria,Tushkhali,8561
+1,39,Nazirpur,Nazirpur,8540
+1,39,Nazirpur,Sriramkathi,8541
+1,39,Pirojpur Sadar,Hularhat,8501
+1,39,Pirojpur Sadar,Parerhat,8502
+1,39,Pirojpur Sadar,Pirojpur Sadar,8500
+1,39,Swarupkathi,Darus Sunnat,8521
+1,39,Swarupkathi,Jalabari,8523
+1,39,Swarupkathi,Kaurikhara,8522
+1,39,Swarupkathi,Swarupkathi,8520
+2,40,Alikadam,Alikadam,4650
+2,40,Bandarban Sadar,Bandarban Sadar,4600
+2,40,Naikhong,Naikhong,4660
+2,40,Roanchhari,Roanchhari,4610
+2,40,Ruma,Ruma,4620
+2,40,Thanchi,Lama,4641
+2,40,Thanchi,Thanchi,4630
+2,41,Akhaura,Akhaura,3450
+2,41,Akhaura,Azampur,3451
+2,41,Akhaura,Gangasagar,3452
+2,41,Banchharampur,Banchharampur,3420
+2,41,Brahamanbaria Sadar,Ashuganj,3402
+2,41,Brahamanbaria Sadar,Ashuganj Share,3403
+2,41,Brahamanbaria Sadar,Brahamanbaria Sadar,3400
+2,41,Brahamanbaria Sadar,Poun,3404
+2,41,Brahamanbaria Sadar,Talshahar,3401
+2,41,Kasba,Chandidar,3462
+2,41,Kasba,Chargachh,3463
+2,41,Kasba,Gopinathpur,3464
+2,41,Kasba,Kasba,3460
+2,41,Kasba,Kuti,3461
+2,41,Nabinagar,Jibanganj,3419
+2,41,Nabinagar,Kaitala,3417
+2,41,Nabinagar,Laubfatehpur,3411
+2,41,Nabinagar,Nabinagar,3410
+2,41,Nabinagar,Rasullabad,3412
+2,41,Nabinagar,Ratanpur,3414
+2,41,Nabinagar,Salimganj,3418
+2,41,Nabinagar,Shahapur,3415
+2,41,Nabinagar,Shamgram,3413
+2,41,Nasirnagar,Fandauk,3441
+2,41,Nasirnagar,Nasirnagar,3440
+2,41,Sarail,Chandura,3432
+2,41,Sarail,Sarial,3430
+2,41,Sarail,Shahbajpur,3431
+2,42,Chandpur Sadar,Baburhat,3602
+2,42,Chandpur Sadar,Chandpur Sadar,3600
+2,42,Chandpur Sadar,Puranbazar,3601
+2,42,Chandpur Sadar,Sahatali,3603
+2,42,Faridganj,Chandra,3651
+2,42,Faridganj,Faridganj,3650
+2,42,Faridganj,Gridkaliandia,3653
+2,42,Faridganj,Islampur Shah Isain,3655
+2,42,Faridganj,Rampurbazar,3654
+2,42,Faridganj,Rupsha,3652
+2,42,Hajiganj,Bolakhal,3611
+2,42,Hajiganj,Hajiganj,3610
+2,42,Hayemchar,Gandamara,3661
+2,42,Hayemchar,Hayemchar,3660
+2,42,Kachua,Kachua,3630
+2,42,Kachua,Pak Shrirampur,3631
+2,42,Kachua,Rahima Nagar,3632
+2,42,Kachua,Shachar,3633
+2,42,Matlobganj,Kalipur,3642
+2,42,Matlobganj,Matlobganj,3640
+2,42,Matlobganj,Mohanpur,3641
+2,42,Shahrasti,Chotoshi,3623
+2,42,Shahrasti,Islamia Madrasha,3624
+2,42,Shahrasti,Khilabazar,3621
+2,42,Shahrasti,Pashchim Kherihar Al,3622
+2,42,Shahrasti,Shahrasti,3620
+2,43,Anawara,Anowara,4376
+2,43,Anawara,Battali,4378
+2,43,Anawara,Paroikora,4377
+2,43,Boalkhali,Boalkhali,4366
+2,43,Boalkhali,Charandwip,4369
+2,43,Boalkhali,Iqbal Park,4365
+2,43,Boalkhali,Kadurkhal,4368
+2,43,Boalkhali,Kanungopara,4363
+2,43,Boalkhali,Sakpura,4367
+2,43,Boalkhali,Saroatoli,4364
+2,43,Chittagong Sadar,Al- Amin Baria Madra,4221
+2,43,Chittagong Sadar,Amin Jute Mills,4211
+2,43,Chittagong Sadar,Anandabazar,4215
+2,43,Chittagong Sadar,Bayezid Bostami,4210
+2,43,Chittagong Sadar,Chandgaon,4212
+2,43,Chittagong Sadar,Chawkbazar,4203
+2,43,Chittagong Sadar,Chitt. Cantonment,4220
+2,43,Chittagong Sadar,Chitt. Customs Acca,4219
+2,43,Chittagong Sadar,Chitt. Politechnic In,4209
+2,43,Chittagong Sadar,Chitt. Sailers Colon,4218
+2,43,Chittagong Sadar,Chittagong Airport,4205
+2,43,Chittagong Sadar,Chittagong Bandar,4100
+2,43,Chittagong Sadar,Chittagong GPO,4000
+2,43,Chittagong Sadar,Export Processing,4223
+2,43,Chittagong Sadar,Firozshah,4207
+2,43,Chittagong Sadar,Halishahar,4216
+2,43,Chittagong Sadar,Halishshar,4225
+2,43,Chittagong Sadar,Jalalabad,4214
+2,43,Chittagong Sadar,Jaldia Merine Accade,4206
+2,43,Chittagong Sadar,Middle Patenga,4222
+2,43,Chittagong Sadar,Mohard,4208
+2,43,Chittagong Sadar,North Halishahar,4226
+2,43,Chittagong Sadar,North Katuli,4217
+2,43,Chittagong Sadar,Pahartoli,4202
+2,43,Chittagong Sadar,Patenga,4204
+2,43,Chittagong Sadar,Rampura TSO,4224
+2,43,Chittagong Sadar,Wazedia,4213
+2,43,East Joara,Barma,4383
+2,43,East Joara,Dohazari,4382
+2,43,East Joara,East Joara,4380
+2,43,East Joara,Gachbaria,4381
+2,43,Fatikchhari,Bhandar Sharif,4352
+2,43,Fatikchhari,Fatikchhari,4350
+2,43,Fatikchhari,Harualchhari,4354
+2,43,Fatikchhari,Najirhat,4353
+2,43,Fatikchhari,Nanupur,4351
+2,43,Fatikchhari,Narayanhat,4355
+2,43,Hathazari,Chitt.University,4331
+2,43,Hathazari,Fatahabad,4335
+2,43,Hathazari,Gorduara,4332
+2,43,Hathazari,Hathazari,4330
+2,43,Hathazari,Katirhat,4333
+2,43,Hathazari,Madrasa,4339
+2,43,Hathazari,Mirzapur,4334
+2,43,Hathazari,Nuralibari,4337
+2,43,Hathazari,Yunus Nagar,4338
+2,43,Jaldi,Banigram,4393
+2,43,Jaldi,Gunagari,4392
+2,43,Jaldi,Jaldi,4390
+2,43,Jaldi,Khan Bahadur,4391
+2,43,Lohagara,Chunti,4398
+2,43,Lohagara,Lohagara,4396
+2,43,Lohagara,Padua,4397
+2,43,Mirsharai,Abutorab,4321
+2,43,Mirsharai,Azampur,4325
+2,43,Mirsharai,Bharawazhat,4323
+2,43,Mirsharai,Darrogahat,4322
+2,43,Mirsharai,Joarganj,4324
+2,43,Mirsharai,Korerhat,4327
+2,43,Mirsharai,Mirsharai,4320
+2,43,Mirsharai,Mohazanhat,4328
+2,43,Patiya,Budhpara,4371
+2,43,Patiya,Patiya Head Office,4370
+2,43,Rangunia,Dhamair,4361
+2,43,Rangunia,Rangunia,4360
+2,43,Rouzan,B.I.T Post Office,4349
+2,43,Rouzan,Beenajuri,4341
+2,43,Rouzan,Dewanpur,4347
+2,43,Rouzan,Fatepur,4345
+2,43,Rouzan,Gahira,4343
+2,43,Rouzan,Guzra Noapara,4346
+2,43,Rouzan,jagannath Hat,4344
+2,43,Rouzan,Kundeshwari,4342
+2,43,Rouzan,Mohamuni,4348
+2,43,Rouzan,Rouzan,4340
+2,43,Sandwip,Sandwip,4300
+2,43,Sandwip,Shiberhat,4301
+2,43,Sandwip,Urirchar,4302
+2,43,Satkania,Baitul Ijjat,4387
+2,43,Satkania,Bazalia,4388
+2,43,Satkania,Satkania,4386
+2,43,Sitakunda,Barabkunda,4312
+2,43,Sitakunda,Baroidhala,4311
+2,43,Sitakunda,Bawashbaria,4313
+2,43,Sitakunda,Bhatiari,4315
+2,43,Sitakunda,Fouzdarhat,4316
+2,43,Sitakunda,Jafrabad,4317
+2,43,Sitakunda,Kumira,4314
+2,43,Sitakunda,Sitakunda,4310
+2,44,Barura,Barura,3560
+2,44,Barura,Murdafarganj,3562
+2,44,Barura,Poyalgachha,3561
+2,44,Brahmanpara,Brahmanpara,3526
+2,44,Burichang,Burichang,3520
+2,44,Burichang,Maynamoti bazar,3521
+2,44,Chandina,Chandia,3510
+2,44,Chandina,Madhaiabazar,3511
+2,44,Chouddagram,Batisa,3551
+2,44,Chouddagram,Chiora,3552
+2,44,Chouddagram,Chouddagram,3550
+2,44,Comilla Sadar,Comilla Contoment,3501
+2,44,Comilla Sadar,Comilla Sadar,3500
+2,44,Comilla Sadar,Courtbari,3503
+2,44,Comilla Sadar,Halimanagar,3502
+2,44,Comilla Sadar,Suaganj,3504
+2,44,Daudkandi,Dashpara,3518
+2,44,Daudkandi,Daudkandi,3516
+2,44,Daudkandi,Eliotganj,3519
+2,44,Daudkandi,Gouripur,3517
+2,44,Davidhar,Barashalghar,3532
+2,44,Davidhar,Davidhar,3530
+2,44,Davidhar,Dhamtee,3533
+2,44,Davidhar,Gangamandal,3531
+2,44,Homna,Homna,3546
+2,44,Laksam,Bipulasar,3572
+2,44,Laksam,Laksam,3570
+2,44,Laksam,Lakshamanpur,3571
+2,44,Langalkot,Chhariabazar,3582
+2,44,Langalkot,Dhalua,3581
+2,44,Langalkot,Gunabati,3583
+2,44,Langalkot,Langalkot,3580
+2,44,Muradnagar,Bangra,3543
+2,44,Muradnagar,Companyganj,3542
+2,44,Muradnagar,Muradnagar,3540
+2,44,Muradnagar,Pantibazar,3545
+2,44,Muradnagar,Ramchandarpur,3541
+2,44,Muradnagar,Sonakanda,3544
+2,45,Chiringga,Badarkali,4742
+2,45,Chiringga,Chiringga,4740
+2,45,Chiringga,Chiringga S.O,4741
+2,45,Chiringga,Malumghat,4743
+2,45,Coxs Bazar Sadar,Coxs Bazar Sadar,4700
+2,45,Coxs Bazar Sadar,Eidga,4702
+2,45,Coxs Bazar Sadar,Zhilanja,4701
+2,45,Gorakghat,Gorakghat,4710
+2,45,Kutubdia,Kutubdia,4720
+2,45,Ramu,Ramu,4730
+2,45,Teknaf,Hnila,4761
+2,45,Teknaf,St.Martin,4762
+2,45,Teknaf,Teknaf,4760
+2,45,Ukhia,Ukhia,4750
+2,46,Chhagalnaia,Chhagalnaia,3910
+2,46,Chhagalnaia,Daraga Hat,3912
+2,46,Chhagalnaia,Maharajganj,3911
+2,46,Chhagalnaia,Puabashimulia,3913
+2,46,Dagonbhuia,Chhilonia,3922
+2,46,Dagonbhuia,Dagondhuia,3920
+2,46,Dagonbhuia,Dudmukha,3921
+2,46,Dagonbhuia,Rajapur,3923
+2,46,Feni Sadar,Fazilpur,3901
+2,46,Feni Sadar,Feni Sadar,3900
+2,46,Feni Sadar,Laskarhat,3903
+2,46,Feni Sadar,Sharshadie,3902
+2,46,Pashurampur,Fulgazi,3942
+2,46,Pashurampur,Munshirhat,3943
+2,46,Pashurampur,Pashurampur,3940
+2,46,Pashurampur,Shuarbazar,3941
+2,46,Sonagazi,Ahmadpur,3932
+2,46,Sonagazi,Kazirhat,3933
+2,46,Sonagazi,Motiganj,3931
+2,46,Sonagazi,Sonagazi,3930
+2,47,Diginala,Diginala,4420
+2,47,Khagrachari Sadar,Khagrachari Sadar,4400
+2,47,Laxmichhari,Laxmichhari,4470
+2,47,Mahalchhari,Mahalchhari,4430
+2,47,Manikchhari,Manikchhari,4460
+2,47,Matiranga,Matiranga,4450
+2,47,Panchhari,Panchhari,4410
+2,47,Ramghar Head Office,Ramghar Head Office,4440
+2,48,Char Alexgander,Char Alexgander,3730
+2,48,Char Alexgander,Hajirghat,3731
+2,48,Char Alexgander,Ramgatirhat,3732
+2,48,Lakshimpur Sadar,Amani Lakshimpur,3709
+2,48,Lakshimpur Sadar,Bhabaniganj,3702
+2,48,Lakshimpur Sadar,Chandraganj,3708
+2,48,Lakshimpur Sadar,Choupalli,3707
+2,48,Lakshimpur Sadar,Dalal Bazar,3701
+2,48,Lakshimpur Sadar,Duttapara,3706
+2,48,Lakshimpur Sadar,Keramatganj,3704
+2,48,Lakshimpur Sadar,Lakshimpur Sadar,3700
+2,48,Lakshimpur Sadar,Mandari,3703
+2,48,Lakshimpur Sadar,Rupchara,3705
+2,48,Ramganj,Alipur,3721
+2,48,Ramganj,Dolta,3725
+2,48,Ramganj,Kanchanpur,3723
+2,48,Ramganj,Naagmud,3724
+2,48,Ramganj,Panpara,3722
+2,48,Ramganj,Ramganj,3720
+2,48,Raypur,Bhuabari,3714
+2,48,Raypur,Haydarganj,3713
+2,48,Raypur,Nagerdighirpar,3712
+2,48,Raypur,Rakhallia,3711
+2,48,Raypur,Raypur,3710
+2,49,Basurhat,Basur Hat,3850
+2,49,Basurhat,Charhajari,3851
+2,49,Begumganj,Alaiarpur,3831
+2,49,Begumganj,Amisha Para,3847
+2,49,Begumganj,Banglabazar,3822
+2,49,Begumganj,Bazra,3824
+2,49,Begumganj,Begumganj,3820
+2,49,Begumganj,Bhabani Jibanpur,3837
+2,49,Begumganj,Choumohani,3821
+2,49,Begumganj,Dauti,3843
+2,49,Begumganj,Durgapur,3848
+2,49,Begumganj,Gopalpur,3828
+2,49,Begumganj,Jamidar Hat,3825
+2,49,Begumganj,Joyag,3844
+2,49,Begumganj,Joynarayanpur,3829
+2,49,Begumganj,Khalafat Bazar,3833
+2,49,Begumganj,Khalishpur,3842
+2,49,Begumganj,Maheshganj,3838
+2,49,Begumganj,Mir Owarishpur,3823
+2,49,Begumganj,Nadona,3839
+2,49,Begumganj,Nandiapara,3841
+2,49,Begumganj,Oachhekpur,3835
+2,49,Begumganj,Rajganj,3834
+2,49,Begumganj,Sonaimuri,3827
+2,49,Begumganj,Tangirpar,3832
+2,49,Begumganj,Thanar Hat,3845
+2,49,Chatkhil,Bansa Bazar,3879
+2,49,Chatkhil,Bodalcourt,3873
+2,49,Chatkhil,Chatkhil,3870
+2,49,Chatkhil,Dosh Gharia,3878
+2,49,Chatkhil,Karihati,3877
+2,49,Chatkhil,Khilpara,3872
+2,49,Chatkhil,Palla,3871
+2,49,Chatkhil,Rezzakpur,3874
+2,49,Chatkhil,Sahapur,3881
+2,49,Chatkhil,Sampara,3882
+2,49,Chatkhil,Shingbahura,3883
+2,49,Chatkhil,Solla,3875
+2,49,Hatiya,Afazia,3891
+2,49,Hatiya,Hatiya,3890
+2,49,Hatiya,Tamoraddi,3892
+2,49,Noakhali Sadar,Chaprashir Hat,3811
+2,49,Noakhali Sadar,Char Jabbar,3812
+2,49,Noakhali Sadar,Charam Tua,3809
+2,49,Noakhali Sadar,Din Monir Hat,3803
+2,49,Noakhali Sadar,Kabirhat,3807
+2,49,Noakhali Sadar,Khalifar Hat,3808
+2,49,Noakhali Sadar,Mriddarhat,3806
+2,49,Noakhali Sadar,Noakhali College,3801
+2,49,Noakhali Sadar,Noakhali Sadar,3800
+2,49,Noakhali Sadar,Pak Kishoreganj,3804
+2,49,Noakhali Sadar,Sonapur,3802
+2,49,Senbag,Beezbag,3862
+2,49,Senbag,Chatarpaia,3864
+2,49,Senbag,Kallyandi,3861
+2,49,Senbag,Kankirhat,3863
+2,49,Senbag,Senbag,3860
+2,49,Senbag,T.P. Lamua,3865
+2,50,Barakal,Barakal,4570
+2,50,Bilaichhari,Bilaichhari,4550
+2,50,Jarachhari,Jarachhari,4560
+2,50,Kalampati,Betbunia,4511
+2,50,Kalampati,Kalampati,4510
+2,50,kaptai,Chandraghona,4531
+2,50,kaptai,Kaptai,4530
+2,50,kaptai,Kaptai Nuton Bazar,4533
+2,50,kaptai,Kaptai Project,4532
+2,50,Longachh,Longachh,4580
+2,50,Marishya,Marishya,4590
+2,50,Naniachhar,Nanichhar,4520
+2,50,Rajsthali,Rajsthali,4540
+2,50,Rangamati Sadar,Rangamati Sadar,4500
+3,1,Demra,Demra,1360
+3,1,Demra,Matuail,1362
+3,1,Demra,Sarulia,1361
+3,1,Dhaka Cantt.,Dhaka CantonmentTSO,1206
+3,1,Dhamrai,Dhamrai,1350
+3,1,Dhamrai,Kamalpur,1351
+3,1,Dhanmondi,Jigatala TSO,1209
+3,1,Gulshan,Banani TSO,1213
+3,1,Gulshan,Gulshan Model Town,1212
+3,1,Jatrabari,Dhania TSO,1232
+3,1,Joypara,Joypara,1330
+3,1,Joypara,Narisha,1332
+3,1,Joypara,Palamganj,1331
+3,1,Keraniganj,Ati,1312
+3,1,Keraniganj,Dhaka Jute Mills,1311
+3,1,Keraniganj,Kalatia,1313
+3,1,Keraniganj,Keraniganj,1310
+3,1,Khilgaon,KhilgaonTSO,1219
+3,1,Khilkhet,KhilkhetTSO,1229
+3,1,Lalbag,Posta TSO,1211
+3,1,Mirpur,Mirpur TSO,1216
+3,1,Mohammadpur,Mohammadpur Housing,1207
+3,1,Mohammadpur,Sangsad BhabanTSO,1225
+3,1,Motijheel,BangabhabanTSO,1222
+3,1,Motijheel,DilkushaTSO,1223
+3,1,Nawabganj,Agla,1323
+3,1,Nawabganj,Churain,1325
+3,1,Nawabganj,Daudpur,1322
+3,1,Nawabganj,Hasnabad,1321
+3,1,Nawabganj,Khalpar,1324
+3,1,Nawabganj,Nawabganj,1320
+3,1,New market,New Market TSO,1205
+3,1,Palton,Dhaka GPO,1000
+3,1,Ramna,Shantinagr TSO,1217
+3,1,Sabujbag,Basabo TSO,1214
+3,1,Savar,Amin Bazar,1348
+3,1,Savar,Dairy Farm,1341
+3,1,Savar,EPZ,1349
+3,1,Savar,Jahangirnagar Univer,1342
+3,1,Savar,Kashem Cotton Mills,1346
+3,1,Savar,Rajphulbaria,1347
+3,1,Savar,Savar,1340
+3,1,Savar,Savar Canttonment,1344
+3,1,Savar,Saver P.A.T.C,1343
+3,1,Savar,Shimulia,1345
+3,1,Sutrapur,Dhaka Sadar HO,1100
+3,1,Sutrapur,Gendaria TSO,1204
+3,1,Sutrapur,Wari TSO,1203
+3,1,Tejgaon,Tejgaon TSO,1215
+3,1,Tejgaon Industrial Area,Dhaka Politechnic,1208
+3,1,Uttara,Uttara Model TwonTSO,1230
+3,2,Alfadanga,Alfadanga,7870
+3,2,Bhanga,Bhanga,7830
+3,2,Boalmari,Boalmari,7860
+3,2,Boalmari,Rupatpat,7861
+3,2,Charbhadrasan,Charbadrashan,7810
+3,2,Faridpur Sadar,Ambikapur,7802
+3,2,Faridpur Sadar,Baitulaman Politecni,7803
+3,2,Faridpur Sadar,Faridpursadar,7800
+3,2,Faridpur Sadar,Kanaipur,7801
+3,2,Madukhali,Kamarkali,7851
+3,2,Madukhali,Madukhali,7850
+3,2,Nagarkanda,Nagarkanda,7840
+3,2,Nagarkanda,Talma,7841
+3,2,Sadarpur,Bishwa jaker Manjil,7822
+3,2,Sadarpur,Hat Krishapur,7821
+3,2,Sadarpur,Sadarpur,7820
+3,2,Shriangan,Shriangan,7804
+3,3,Gazipur Sadar,B.O.F,1703
+3,3,Gazipur Sadar,B.R.R,1701
+3,3,Gazipur Sadar,Chandna,1702
+3,3,Gazipur Sadar,Gazipur Sadar,1700
+3,3,Gazipur Sadar,National University,1704
+3,3,Kaliakaar,Kaliakaar,1750
+3,3,Kaliakaar,Safipur,1751
+3,3,Kaliganj,Kaliganj,1720
+3,3,Kaliganj,Pubail,1721
+3,3,Kaliganj,Santanpara,1722
+3,3,Kaliganj,Vaoal Jamalpur,1723
+3,3,Kapashia,kapashia,1730
+3,3,Monnunagar,Ershad Nagar,1712
+3,3,Monnunagar,Monnunagar,1710
+3,3,Monnunagar,Nishat Nagar,1711
+3,3,Sreepur,Barmi,1743
+3,3,Sreepur,Bashamur,1747
+3,3,Sreepur,Boubi,1748
+3,3,Sreepur,Kawraid,1745
+3,3,Sreepur,Satkhamair,1744
+3,3,Sreepur,Sreepur,1740
+3,3,Sripur,Rajendrapur,1741
+3,3,Sripur,Rajendrapur Canttome,1742
+3,4,Gopalganj Sadar,Barfa,8102
+3,4,Gopalganj Sadar,Chandradighalia,8013
+3,4,Gopalganj Sadar,Gopalganj Sadar,8100
+3,4,Gopalganj Sadar,Ulpur,8101
+3,4,Kashiani,Jonapur,8133
+3,4,Kashiani,Kashiani,8130
+3,4,Kashiani,Ramdia College,8131
+3,4,Kashiani,Ratoil,8132
+3,4,Kotalipara,Kotalipara,8110
+3,4,Maksudpur,Batkiamari,8141
+3,4,Maksudpur,Khandarpara,8142
+3,4,Maksudpur,Maksudpur,8140
+3,4,Tungipara,Patgati,8121
+3,4,Tungipara,Tungipara,8120
+3,5,Dewangonj,Dewangonj,2030
+3,5,Dewangonj,Dewangonj S. Mills,2031
+3,5,Islampur,Durmoot,2021
+3,5,Islampur,Gilabari,2022
+3,5,Islampur,Islampur,2020
+3,5,Jamalpur,Jamalpur,2000
+3,5,Jamalpur,Nandina,2001
+3,5,Jamalpur,Narundi,2002
+3,5,Malandah,Jamalpur,2011
+3,5,Malandah,Mahmoodpur,2013
+3,5,Malandah,Malancha,2012
+3,5,Malandah,Malandah,2010
+3,5,Mathargonj,Balijhuri,2041
+3,5,Mathargonj,Mathargonj,2040
+3,5,Shorishabari,Bausee,2052
+3,5,Shorishabari,Gunerbari,2051
+3,5,Shorishabari,Jagannath Ghat,2053
+3,5,Shorishabari,Jamuna Sar Karkhana,2055
+3,5,Shorishabari,Pingna,2054
+3,5,Shorishabari,Shorishabari,2050
+3,6,Bajitpur,Bajitpur,2336
+3,6,Bajitpur,Laksmipur,2338
+3,6,Bajitpur,Sararchar,2337
+3,6,Bhairob,Bhairab,2350
+3,6,Hossenpur,Hossenpur,2320
+3,6,Itna,Itna,2390
+3,6,Karimganj,Karimganj,2310
+3,6,Katiadi,Gochhihata,2331
+3,6,Katiadi,Katiadi,2330
+3,6,Kishoreganj Sadar,Kishoreganj S.Mills,2301
+3,6,Kishoreganj Sadar,Kishoreganj Sadar,2300
+3,6,Kishoreganj Sadar,Maizhati,2302
+3,6,Kishoreganj Sadar,Nilganj,2303
+3,6,Kuliarchar,Chhoysuti,2341
+3,6,Kuliarchar,Kuliarchar,2340
+3,6,Mithamoin,Abdullahpur,2371
+3,6,Mithamoin,MIthamoin,2370
+3,6,Nikli,Nikli,2360
+3,6,Ostagram,Ostagram,2380
+3,6,Pakundia,Pakundia,2326
+3,6,Tarial,Tarial,2316
+3,7,Barhamganj,Bahadurpur,7932
+3,7,Barhamganj,Barhamganj,7930
+3,7,Barhamganj,Nilaksmibandar,7931
+3,7,Barhamganj,Umedpur,7933
+3,7,kalkini,Kalkini,7920
+3,7,kalkini,Sahabrampur,7921
+3,7,Madaripur Sadar,Charmugria,7901
+3,7,Madaripur Sadar,Habiganj,7903
+3,7,Madaripur Sadar,Kulpaddi,7902
+3,7,Madaripur Sadar,Madaripur Sadar,7900
+3,7,Madaripur Sadar,Mustafapur,7904
+3,7,Rajoir,Khalia,7911
+3,7,Rajoir,Rajoir,7910
+3,8,Doulatpur,Doulatpur,1860
+3,8,Gheor,Gheor,1840
+3,8,Lechhraganj,Jhitka,1831
+3,8,Lechhraganj,Lechhraganj,1830
+3,8,Manikganj Sadar,Barangail,1804
+3,8,Manikganj Sadar,Gorpara,1802
+3,8,Manikganj Sadar,Mahadebpur,1803
+3,8,Manikganj Sadar,Manikganj Bazar,1801
+3,8,Manikganj Sadar,Manikganj Sadar,1800
+3,8,Saturia,Baliati,1811
+3,8,Saturia,Saturia,1810
+3,8,Shibloya,Aricha,1851
+3,8,Shibloya,Shibaloy,1850
+3,8,Shibloya,Tewta,1852
+3,8,Shibloya,Uthli,1853
+3,8,Singari,Baira,1821
+3,8,Singari,joymantop,1822
+3,8,Singari,Singair,1820
+3,9,Gajaria,Gajaria,1510
+3,9,Gajaria,Hossendi,1511
+3,9,Gajaria,Rasulpur,1512
+3,9,Lohajong,Gouragonj,1334
+3,9,Lohajong,Gouragonj,1534
+3,9,Lohajong,Haldia SO,1532
+3,9,Lohajong,Haridia,1333
+3,9,Lohajong,Haridia DESO,1533
+3,9,Lohajong,Korhati,1531
+3,9,Lohajong,Lohajang,1530
+3,9,Lohajong,Madini Mandal,1335
+3,9,Lohajong,Medini Mandal EDSO,1535
+3,9,Munshiganj Sadar,Kathakhali,1503
+3,9,Munshiganj Sadar,Mirkadim,1502
+3,9,Munshiganj Sadar,Munshiganj Sadar,1500
+3,9,Munshiganj Sadar,Rikabibazar,1501
+3,9,Sirajdikhan,Ichapur,1542
+3,9,Sirajdikhan,Kola,1541
+3,9,Sirajdikhan,Malkha Nagar,1543
+3,9,Sirajdikhan,Shekher Nagar,1544
+3,9,Sirajdikhan,Sirajdikhan,1540
+3,9,Srinagar,Baghra,1557
+3,9,Srinagar,Barikhal,1551
+3,9,Srinagar,Bhaggyakul,1558
+3,9,Srinagar,Hashara,1553
+3,9,Srinagar,Kolapara,1554
+3,9,Srinagar,Kumarbhog,1555
+3,9,Srinagar,Mazpara,1552
+3,9,Srinagar,Srinagar,1550
+3,9,Srinagar,Vaggyakul SO,1556
+3,9,Tangibari,Bajrajugini,1523
+3,9,Tangibari,Baligao,1522
+3,9,Tangibari,Betkahat,1521
+3,9,Tangibari,Dighirpar,1525
+3,9,Tangibari,Hasail,1524
+3,9,Tangibari,Pura,1527
+3,9,Tangibari,Pura EDSO,1526
+3,9,Tangibari,Tangibari,1520
+3,10,Bhaluka,Bhaluka,2240
+3,10,Fulbaria,Fulbaria,2216
+3,10,Gaforgaon,Duttarbazar,2234
+3,10,Gaforgaon,Gaforgaon,2230
+3,10,Gaforgaon,Kandipara,2233
+3,10,Gaforgaon,Shibganj,2231
+3,10,Gaforgaon,Usti,2232
+3,10,Gouripur,Gouripur,2270
+3,10,Gouripur,Ramgopalpur,2271
+3,10,Haluaghat,Dhara,2261
+3,10,Haluaghat,Haluaghat,2260
+3,10,Haluaghat,Munshirhat,2262
+3,10,Isshwargonj,Atharabari,2282
+3,10,Isshwargonj,Isshwargonj,2280
+3,10,Isshwargonj,Sohagi,2281
+3,10,Muktagachha,Muktagachha,2210
+3,10,Mymensingh Sadar,Agriculture Universi,2202
+3,10,Mymensingh Sadar,Biddyaganj,2204
+3,10,Mymensingh Sadar,Kawatkhali,2201
+3,10,Mymensingh Sadar,Mymensingh Sadar,2200
+3,10,Mymensingh Sadar,Pearpur,2205
+3,10,Mymensingh Sadar,Shombhuganj,2203
+3,10,Nandail,Gangail,2291
+3,10,Nandail,Nandail,2290
+3,10,Phulpur,Beltia,2251
+3,10,Phulpur,Phulpur,2250
+3,10,Phulpur,Tarakanda,2252
+3,10,Trishal,Ahmadbad,2221
+3,10,Trishal,Dhala,2223
+3,10,Trishal,Ram Amritaganj,2222
+3,10,Trishal,Trishal,2220
+3,11,Araihazar,Araihazar,1450
+3,11,Araihazar,Gopaldi,1451
+3,11,Baidder Bazar,Baidder Bazar,1440
+3,11,Baidder Bazar,Bara Nagar,1441
+3,11,Baidder Bazar,Barodi,1442
+3,11,Bandar,Bandar,1410
+3,11,Bandar,BIDS,1413
+3,11,Bandar,D.C Mills,1411
+3,11,Bandar,Madanganj,1414
+3,11,Bandar,Nabiganj,1412
+3,11,Fatullah,Fatulla Bazar,1421
+3,11,Fatullah,Fatullah,1420
+3,11,Narayanganj Sadar,Narayanganj Sadar,1400
+3,11,Rupganj,Bhulta,1462
+3,11,Rupganj,Kanchan,1461
+3,11,Rupganj,Murapara,1464
+3,11,Rupganj,Nagri,1463
+3,11,Rupganj,Rupganj,1460
+3,11,Siddirganj,Adamjeenagar,1431
+3,11,Siddirganj,LN Mills,1432
+3,11,Siddirganj,Siddirganj,1430
+3,12,Belabo,Belabo,1640
+3,12,Monohordi,Hatirdia,1651
+3,,Monohordi,Katabaria,1652
+3,12,Monohordi,Monohordi,1650
+3,12,Narshingdi Sadar,Karimpur,1605
+3,12,Narshingdi Sadar,Madhabdi,1604
+3,12,Narshingdi Sadar,Narshingdi College,1602
+3,12,Narshingdi Sadar,Narshingdi Sadar,1600
+3,12,Narshingdi Sadar,Panchdona,1603
+3,12,Narshingdi Sadar,UMC Jute Mills,1601
+3,12,Palash,Char Sindhur,1612
+3,12,Palash,Ghorashal,1613
+3,12,Palash,Ghorashal Urea Facto,1611
+3,12,Palash,Palash,1610
+3,12,Raypura,Bazar Hasnabad,1631
+3,12,Raypura,Radhaganj bazar,1632
+3,12,Raypura,Raypura,1630
+3,12,Shibpur,Shibpur,1620
+3,13,Susung Durgapur,Susnng Durgapur,2420
+3,13,Atpara,Atpara,2470
+3,13,Barhatta,Barhatta,2440
+3,13,Dharmapasha,Dharampasha,2450
+3,13,Dhobaura,Dhobaura,2416
+3,13,Dhobaura,Sakoai,2417
+3,13,Kalmakanda,Kalmakanda,2430
+3,13,Kendua,Kendua,2480
+3,13,Khaliajuri,Khaliajhri,2460
+3,13,Khaliajuri,Shaldigha,2462
+3,13,Madan,Madan,2490
+3,13,Moddhynagar,Moddoynagar,2456
+3,13,Mohanganj,Mohanganj,2446
+3,13,Netrakona Sadar,Baikherhati,2401
+3,13,Netrakona Sadar,Netrakona Sadar,2400
+3,13,Purbadhola,Jaria Jhanjhail,2412
+3,13,Purbadhola,Purbadhola,2410
+3,13,Purbadhola,Shamgonj,2411
+3,14,Baliakandi,Baliakandi,7730
+3,14,Baliakandi,Nalia,7731
+3,14,Pangsha,Mrigibazar,7723
+3,14,Pangsha,Pangsha,7720
+3,14,Pangsha,Ramkol,7721
+3,14,Pangsha,Ratandia,7722
+3,14,Rajbari Sadar,Goalanda,7710
+3,14,Rajbari Sadar,Khankhanapur,7711
+3,14,Rajbari Sadar,Rajbari Sadar,7700
+3,15,Bhedorganj,Bhedorganj,8030
+3,15,Damudhya,Damudhya,8040
+3,15,Gosairhat,Gosairhat,8050
+3,15,Jajira,Jajira,8010
+3,15,Naria,Bhozeshwar,8021
+3,15,Naria,Gharisar,8022
+3,15,Naria,Kartikpur,8024
+3,15,Naria,Naria,8020
+3,15,Naria,Upshi,8023
+3,15,Shariatpur Sadar,Angaria,8001
+3,15,Shariatpur Sadar,Chikandi,8002
+3,15,Shariatpur Sadar,Shariatpur Sadar,8000
+3,16,Bakshigonj,Bakshigonj,2140
+3,16,Jhinaigati,Jhinaigati,2120
+3,16,Nakla,Gonopaddi,2151
+3,16,Nakla,Nakla,2150
+3,16,Nalitabari,Hatibandha,2111
+3,16,Nalitabari,Nalitabari,2110
+3,16,Sherpur Shadar,Sherpur Shadar,2100
+3,16,Shribardi,Shribardi,2130
+3,17,Basail,Basail,1920
+3,17,Bhuapur,Bhuapur,1960
+3,17,Delduar,Delduar,1910
+3,17,Delduar,Elasin,1913
+3,17,Delduar,Hinga Nagar,1914
+3,17,Delduar,Jangalia,1911
+3,17,Delduar,Lowhati,1915
+3,17,Delduar,Patharail,1912
+3,17,Ghatail,D. Pakutia,1982
+3,17,Ghatail,Dhalapara,1983
+3,17,Ghatail,Ghatial,1980
+3,17,Ghatail,Lohani,1984
+3,17,Ghatail,Zahidganj,1981
+3,17,Gopalpur,Gopalpur,1990
+3,17,Gopalpur,Hemnagar,1992
+3,17,Gopalpur,Jhowail,1991
+3,17,Kalihati,Ballabazar,1973
+3,17,Kalihati,Elinga,1974
+3,17,Kalihati,Kalihati,1970
+3,17,Kalihati,Nagarbari,1977
+3,17,Kalihati,Nagarbari SO,1976
+3,17,Kalihati,Nagbari,1972
+3,17,Kalihati,Palisha,1975
+3,17,Kalihati,Rajafair,1971
+3,17,Kashkaolia,Kashkawlia,1930
+3,17,Madhupur,Dhobari,1997
+3,17,Madhupur,Madhupur,1996
+3,17,Mirzapur,Gorai,1941
+3,17,Mirzapur,Jarmuki,1944
+3,17,Mirzapur,M.C. College,1942
+3,17,Mirzapur,Mirzapur,1940
+3,17,Mirzapur,Mohera,1945
+3,17,Mirzapur,Warri paikpara,1943
+3,17,Nagarpur,Dhuburia,1937
+3,17,Nagarpur,Nagarpur,1936
+3,17,Nagarpur,Salimabad,1938
+3,17,Sakhipur,Kochua,1951
+3,17,Sakhipur,Sakhipur,1950
+3,17,Tangail Sadar,Kagmari,1901
+3,17,Tangail Sadar,Korotia,1903
+3,17,Tangail Sadar,Purabari,1904
+3,17,Tangail Sadar,Santosh,1902
+3,17,Tangail Sadar,Tangail Sadar,1900
+4,55,Bagerhat Sadar,Bagerhat Sadar,9300
+4,55,Bagerhat Sadar,P.C College,9301
+4,55,Bagerhat Sadar,Rangdia,9302
+4,55,Chalna Ankorage,Chalna Ankorage,9350
+4,55,Chalna Ankorage,Mongla Port,9351
+4,55,Chitalmari,Barabaria,9361
+4,55,Chitalmari,Chitalmari,9360
+4,55,Fakirhat,Bhanganpar Bazar,9372
+4,55,Fakirhat,Fakirhat,9370
+4,55,Fakirhat,Mansa,9371
+4,55,Kachua UPO,Kachua,9310
+4,55,Kachua UPO,Sonarkola,9311
+4,55,Mollahat,Charkulia,9383
+4,55,Mollahat,Dariala,9382
+4,55,Mollahat,Kahalpur,9381
+4,55,Mollahat,Mollahat,9380
+4,55,Mollahat,Nagarkandi,9384
+4,55,Mollahat,Pak Gangni,9385
+4,55,Morelganj,Morelganj,9320
+4,55,Morelganj,Sannasi Bazar,9321
+4,55,Morelganj,Telisatee,9322
+4,55,Rampal,Foylahat,9341
+4,55,Rampal,Gourambha,9343
+4,55,Rampal,Rampal,9340
+4,55,Rampal,Sonatunia,9342
+4,55,Rayenda,Rayenda,9330
+4,56,Alamdanga,Alamdanga,7210
+4,56,Alamdanga,Hardi,7211
+4,56,Chuadanga Sadar,Chuadanga Sadar,7200
+4,56,Chuadanga Sadar,Munshiganj,7201
+4,56,Damurhuda,Andulbaria,7222
+4,56,Damurhuda,Damurhuda,7220
+4,56,Damurhuda,Darshana,7221
+4,56,Doulatganj,Doulatganj,7230
+4,57,Bagharpara,Bagharpara,7470
+4,57,Bagharpara,Gouranagar,7471
+4,57,Chaugachha,Chougachha,7410
+4,57,Jessore Sadar,Basundia,7406
+4,57,Jessore Sadar,Chanchra,7402
+4,57,Jessore Sadar,Churamankathi,7407
+4,57,Jessore Sadar,Jessore Airbach,7404
+4,57,Jessore Sadar,Jessore canttonment,7403
+4,57,Jessore Sadar,Jessore Sadar,7400
+4,57,Jessore Sadar,Jessore Upa-Shahar,7401
+4,57,Jessore Sadar,Rupdia,7405
+4,57,Jhikargachha,Jhikargachha,7420
+4,57,Keshabpur,Keshobpur,7450
+4,57,Monirampur,Monirampur,7440
+4,57,Noapara,Bhugilhat,7462
+4,57,Noapara,Noapara,7460
+4,57,Noapara,Rajghat,7461
+4,57,Sarsa,Bag Achra,7433
+4,57,Sarsa,Benapole,7431
+4,57,Sarsa,Jadabpur,7432
+4,57,Sarsa,Sarsa,7430
+4,58,Harinakundu,Harinakundu,7310
+4,58,Jinaidaha Sadar,Jinaidaha Cadet College,7301
+4,58,Jinaidaha Sadar,Jinaidaha Sadar,7300
+4,58,Kotchandpur,Kotchandpur,7330
+4,58,Maheshpur,Maheshpur,7340
+4,58,Naldanga,Hatbar Bazar,7351
+4,58,Naldanga,Naldanga,7350
+4,58,Shailakupa,Kumiradaha,7321
+4,58,Shailakupa,Shailakupa,7320
+4,59,Alaipur,Alaipur,9240
+4,59,Alaipur,Belphulia,9242
+4,59,Alaipur,Rupsha,9241
+4,59,Batiaghat,Batiaghat,9260
+4,59,Batiaghat,Surkalee,9261
+4,59,Chalna Bazar,Bajua,9272
+4,59,Chalna Bazar,Chalna Bazar,9270
+4,59,Chalna Bazar,Dakup,9271
+4,59,Chalna Bazar,Nalian,9273
+4,59,Digalia,Chandni Mahal,9221
+4,59,Digalia,Digalia,9220
+4,59,Digalia,Gazirhat,9224
+4,59,Digalia,Ghoshghati,9223
+4,59,Digalia,Senhati,9222
+4,59,Khulna Sadar,Atra Shilpa Area,9207
+4,59,Khulna Sadar,BIT Khulna,9203
+4,59,Khulna Sadar,Doulatpur,9202
+4,59,Khulna Sadar,Jahanabad Canttonmen,9205
+4,59,Khulna Sadar,Khula Sadar,9100
+4,59,Khulna Sadar,Khulna G.P.O,9000
+4,59,Khulna Sadar,Khulna Shipyard,9201
+4,59,Khulna Sadar,Khulna University,9208
+4,59,Khulna Sadar,Siramani,9204
+4,59,Khulna Sadar,Sonali Jute Mills,9206
+4,59,Madinabad,Amadee,9291
+4,59,Madinabad,Madinabad,9290
+4,59,Paikgachha,Chandkhali,9284
+4,59,Paikgachha,Garaikhali,9285
+4,59,Paikgachha,Godaipur,9281
+4,59,Paikgachha,Kapilmoni,9282
+4,59,Paikgachha,Katipara,9283
+4,59,Paikgachha,Paikgachha,9280
+4,59,Phultala,Phultala,9210
+4,59,Sajiara,Chuknagar,9252
+4,59,Sajiara,Ghonabanda,9251
+4,59,Sajiara,Sajiara,9250
+4,59,Sajiara,Shahapur,9253
+4,59,Terakhada,Pak Barasat,9231
+4,59,Terakhada,Terakhada,9230
+4,60,Bheramara,Allardarga,7042
+4,60,Bheramara,Bheramara,7040
+4,60,Bheramara,Ganges Bheramara,7041
+4,60,Janipur,Janipur,7020
+4,60,Janipur,Khoksa,7021
+4,60,Kumarkhali,Kumarkhali,7010
+4,60,Kumarkhali,Panti,7011
+4,60,Kustia Sadar,Islami University,7003
+4,60,Kustia Sadar,Jagati,7002
+4,60,Kustia Sadar,Kushtia Mohini,7001
+4,60,Kustia Sadar,Kustia Sadar,7000
+4,60,Mirpur,Amla Sadarpur,7032
+4,60,Mirpur,Mirpur,7030
+4,60,Mirpur,Poradaha,7031
+4,60,Rafayetpur,Khasmathurapur,7052
+4,60,Rafayetpur,Rafayetpur,7050
+4,60,Rafayetpur,Taragunia,7051
+4,61,Arpara,Arpara,7620
+4,61,Magura Sadar,Magura Sadar,7600
+4,61,Mohammadpur,Binodpur,7631
+4,61,Mohammadpur,Mohammadpur,7630
+4,61,Mohammadpur,Nahata,7632
+4,61,Shripur,Langalbadh,7611
+4,61,Shripur,Nachol,7612
+4,61,Shripur,Shripur,7610
+4,62,Gangni,Gangni,7110
+4,62,Meherpur Sadar,Amjhupi,7101
+4,62,Meherpur Sadar,Amjhupi,7152
+4,62,Meherpur Sadar,Meherpur Sadar,7100
+4,62,Meherpur Sadar,Mujib Nagar Complex,7102
+4,63,Kalia,Kalia,7520
+4,63,Laxmipasha,Baradia,7514
+4,63,Laxmipasha,Itna,7512
+4,63,Laxmipasha,Laxmipasha,7510
+4,63,Laxmipasha,Lohagora,7511
+4,63,Laxmipasha,Naldi,7513
+4,63,Mohajan,Mohajan,7521
+4,63,Narail Sadar,Narail Sadar,7500
+4,63,Narail Sadar,Ratanganj,7501
+4,64,Ashashuni,Ashashuni,9460
+4,64,Ashashuni,Baradal,9461
+4,64,Debbhata,Debbhata,9430
+4,64,Debbhata,Gurugram,9431
+4,64,kalaroa,Chandanpur,9415
+4,64,kalaroa,Hamidpur,9413
+4,64,kalaroa,Jhaudanga,9412
+4,64,kalaroa,kalaroa,9410
+4,64,kalaroa,Khordo,9414
+4,64,kalaroa,Murarikati,9411
+4,64,Kaliganj UPO,Kaliganj UPO,9440
+4,64,Kaliganj UPO,Nalta Mubaroknagar,9441
+4,64,Kaliganj UPO,Ratanpur,9442
+4,64,Nakipur,Buri Goalini,9453
+4,64,Nakipur,Gabura,9454
+4,64,Nakipur,Habinagar,9455
+4,64,Nakipur,Nakipur,9450
+4,64,Nakipur,Naobeki,9452
+4,64,Nakipur,Noornagar,9451
+4,64,Satkhira Sadar,Budhhat,9403
+4,64,Satkhira Sadar,Gunakar kati,9402
+4,64,Satkhira Sadar,Satkhira Islamia Acc,9401
+4,64,Satkhira Sadar,Satkhira Sadar,9400
+4,64,Taala,Patkelghata,9421
+4,64,Taala,Taala,9420
+5,18,Alamdighi,Adamdighi,5890
+5,18,Alamdighi,Nasharatpur,5892
+5,18,Alamdighi,Santahar,5891
+5,18,Bogra Sadar,Bogra Canttonment,5801
+5,18,Bogra Sadar,Bogra Sadar,5800
+5,18,Dhunat,Dhunat,5850
+5,18,Dhunat,Gosaibari,5851
+5,18,Dupchachia,Dupchachia,5880
+5,18,Dupchachia,Talora,5881
+5,18,Gabtoli,Gabtoli,5820
+5,18,Gabtoli,Sukhanpukur,5821
+5,18,Kahalu,Kahalu,5870
+5,18,Nandigram,Nandigram,5860
+5,18,Sariakandi,Chandan Baisha,5831
+5,18,Sariakandi,Sariakandi,5830
+5,18,Sherpur,Chandaikona,5841
+5,18,Sherpur,Palli Unnyan Accadem,5842
+5,18,Sherpur,Sherpur,5840
+5,18,Shibganj,Shibganj,5810
+5,18,Sonatola,Sonatola,5826
+5,,Bholahat,Bholahat,6330
+5,,Chapinawabganj Sadar,Amnura,6303
+5,,Chapinawabganj Sadar,Chapinawbganj Sadar,6300
+5,,Chapinawabganj Sadar,Rajarampur,6301
+5,,Chapinawabganj Sadar,Ramchandrapur,6302
+5,,Nachol,Mandumala,6311
+5,,Nachol,Nachol,6310
+5,,Rohanpur,Gomashtapur,6321
+5,,Rohanpur,Rohanpur,6320
+5,,Shibganj U.P.O,Kansart,6341
+5,,Shibganj U.P.O,Manaksha,6342
+5,,Shibganj U.P.O,Shibganj U.P.O,6340
+5,19,Akkelpur,Akklepur,5940
+5,19,Akkelpur,jamalganj,5941
+5,19,Akkelpur,Tilakpur,5942
+5,19,Joypurhat Sadar,Joypurhat Sadar,5900
+5,19,kalai,kalai,5930
+5,19,Khetlal,Khetlal,5920
+5,19,panchbibi,Panchbibi,5910
+5,20,Ahsanganj,Ahsanganj,6596
+5,20,Ahsanganj,Bandai,6597
+5,20,Badalgachhi,Badalgachhi,6570
+5,20,Dhamuirhat,Dhamuirhat,6580
+5,20,Mahadebpur,Mahadebpur,6530
+5,20,Naogaon Sadar,Naogaon Sadar,6500
+5,20,Niamatpur,Niamatpur,6520
+5,20,Nitpur,Nitpur,6550
+5,20,Nitpur,Panguria,6552
+5,20,Nitpur,Porsa,6551
+5,20,Patnitala,Patnitala,6540
+5,20,Prasadpur,Balihar,6512
+5,20,Prasadpur,Manda,6511
+5,20,Prasadpur,Prasadpur,6510
+5,20,Raninagar,Kashimpur,6591
+5,20,Raninagar,Raninagar,6590
+5,20,Sapahar,Moduhil,6561
+5,20,Sapahar,Sapahar,6560
+5,21,Gopalpur UPO,Abdulpur,6422
+5,21,Gopalpur UPO,Gopalpur U.P.O,6420
+5,21,Gopalpur UPO,Lalpur S.O,6421
+5,21,Harua,Baraigram,6432
+5,21,Harua,Dayarampur,6431
+5,21,Harua,Harua,6430
+5,21,Hatgurudaspur,Hatgurudaspur,6440
+5,21,Laxman,Laxman,6410
+5,21,Natore Sadar,Baiddyabal Gharia,6402
+5,21,Natore Sadar,Digapatia,6401
+5,21,Natore Sadar,Madhnagar,6403
+5,21,Natore Sadar,Natore Sadar,6400
+5,21,Singra,Singra,6450
+5,22,Banwarinagar,Banwarinagar,6650
+5,22,Bera,Bera,6680
+5,22,Bera,Kashinathpur,6682
+5,22,Bera,Nakalia,6681
+5,22,Bera,Puran Bharenga,6683
+5,22,Bhangura,Bhangura,6640
+5,22,Chatmohar,Chatmohar,6630
+5,22,Debottar,Debottar,6610
+5,22,Ishwardi,Dhapari,6621
+5,22,Ishwardi,Ishwardi,6620
+5,22,Ishwardi,Pakshi,6622
+5,22,Ishwardi,Rajapur,6623
+5,22,Pabna Sadar,Hamayetpur,6602
+5,22,Pabna Sadar,Kaliko Cotton Mills,6601
+5,22,Pabna Sadar,Pabna Sadar,6600
+5,22,Sathia,Sathia,6670
+5,22,Sujanagar,Sagarkandi,6661
+5,22,Sujanagar,Sujanagar,6660
+5,24,Bagha,Arani,6281
+5,24,Bagha,Bagha,6280
+5,24,Bhabaniganj,Bhabaniganj,6250
+5,24,Bhabaniganj,Taharpur,6251
+5,24,Charghat,Charghat,6270
+5,24,Charghat,Sarda,6271
+5,24,Durgapur,Durgapur,6240
+5,24,Godagari,Godagari,6290
+5,24,Godagari,Premtoli,6291
+5,24,Khod Mohanpur,Khodmohanpur,6220
+5,24,Lalitganj,Lalitganj,6210
+5,24,Lalitganj,Rajshahi Sugar Mills,6211
+5,24,Lalitganj,Shyampur,6212
+5,24,Putia,Putia,6260
+5,24,Rajshahi Sadar,Binodpur Bazar,6206
+5,24,Rajshahi Sadar,Ghuramara,6100
+5,24,Rajshahi Sadar,Kazla,6204
+5,24,Rajshahi Sadar,Rajshahi Canttonment,6202
+5,24,Rajshahi Sadar,Rajshahi Court,6201
+5,24,Rajshahi Sadar,Rajshahi Sadar,6000
+5,24,Rajshahi Sadar,Rajshahi University,6205
+5,24,Rajshahi Sadar,Sapura,6203
+5,24,Tanor,Tanor,6230
+5,25,Baiddya Jam Toil,Baiddya Jam Toil,6730
+5,25,Belkuchi,Belkuchi,6740
+5,25,Belkuchi,Enayetpur,6751
+5,25,Belkuchi,Rajapur,6742
+5,25,Belkuchi,Sohagpur,6741
+5,25,Belkuchi,Sthal,6752
+5,25,Dhangora,Dhangora,6720
+5,25,Dhangora,Malonga,6721
+5,25,Kazipur,Gandail,6712
+5,25,Kazipur,Kazipur,6710
+5,25,Kazipur,Shuvgachha,6711
+5,25,Shahjadpur,Jamirta,6772
+5,25,Shahjadpur,Kaijuri,6773
+5,25,Shahjadpur,Porjana,6771
+5,25,Shahjadpur,Shahjadpur,6770
+5,25,Sirajganj Sadar,Raipur,6701
+5,25,Sirajganj Sadar,Rashidabad,6702
+5,25,Sirajganj Sadar,Sirajganj Sadar,6700
+5,25,Tarash,Tarash,6780
+5,25,Ullapara,Lahiri Mohanpur,6762
+5,25,Ullapara,Salap,6763
+5,25,Ullapara,Ullapara,6760
+5,25,Ullapara,Ullapara R.S,6761
+6,26,Bangla Hili,Bangla Hili,5270
+6,26,Biral,Biral,5210
+6,26,Birampur,Birampur,5266
+6,26,Birganj,Birganj,5220
+6,26,Chrirbandar,Chrirbandar,5240
+6,26,Chrirbandar,Ranirbandar,5241
+6,26,Dinajpur Sadar,Dinajpur Rajbari,5201
+6,26,Dinajpur Sadar,Dinajpur Sadar,5200
+6,26,Khansama,Khansama,5230
+6,26,Khansama,Pakarhat,5231
+6,26,Maharajganj,Maharajganj,5226
+6,26,Nababganj,Daudpur,5281
+6,26,Nababganj,Gopalpur,5282
+6,26,Nababganj,Nababganj,5280
+6,26,Osmanpur,Ghoraghat,5291
+6,26,Osmanpur,Osmanpur,5290
+6,26,Parbatipur,Parbatipur,5250
+6,26,Phulbari,Phulbari,5260
+6,26,Setabganj,Setabganj,5216
+6,27,Bonarpara,Bonarpara,5750
+6,27,Bonarpara,saghata,5751
+6,27,Gaibandha Sadar,Gaibandha Sadar,5700
+6,27,Gobindaganj,Gobindhaganj,5740
+6,27,Gobindaganj,Mahimaganj,5741
+6,27,Palashbari,Palashbari,5730
+6,27,Phulchhari,Bharatkhali,5761
+6,27,Phulchhari,Phulchhari,5760
+6,27,Saadullapur,Naldanga,5711
+6,27,Saadullapur,Saadullapur,5710
+6,27,Sundarganj,Bamandanga,5721
+6,27,Sundarganj,Sundarganj,5720
+6,28,Bhurungamari,Bhurungamari,5670
+6,28,Chilmari,Chilmari,5630
+6,28,Chilmari,Jorgachh,5631
+6,28,Kurigram Sadar,Kurigram Sadar,5600
+6,28,Kurigram Sadar,Pandul,5601
+6,28,Kurigram Sadar,Phulbari,5680
+6,28,Nageshwar,Nageshwar,5660
+6,28,Rajarhat,Nazimkhan,5611
+6,28,Rajarhat,Rajarhat,5610
+6,28,Rajibpur,Rajibpur,5650
+6,28,Roumari,Roumari,5640
+6,28,Ulipur,Bazarhat,5621
+6,28,Ulipur,Ulipur,5620
+6,29,Aditmari,Aditmari,5510
+6,29,Hatibandha,Hatibandha,5530
+6,29,Lalmonirhat Sadar,Kulaghat SO,5502
+6,29,Lalmonirhat Sadar,Lalmonirhat Sadar,5500
+6,29,Lalmonirhat Sadar,Moghalhat,5501
+6,29,Patgram,Baura,5541
+6,29,Patgram,Burimari,5542
+6,29,Patgram,Patgram,5540
+6,29,Tushbhandar,Tushbhandar,5520
+6,30,Dimla,Dimla,5350
+6,30,Dimla,Ghaga Kharibari,5351
+6,30,Domar,Chilahati,5341
+6,30,Domar,Domar,5340
+6,30,Jaldhaka,Jaldhaka,5330
+6,30,Kishoriganj,Kishoriganj,5320
+6,30,Nilphamari Sadar,Nilphamari Sadar,5300
+6,30,Nilphamari Sadar,Nilphamari Sugar Mil,5301
+6,30,Syedpur,Syedpur,5310
+6,30,Syedpur,Syedpur Upashahar,5311
+6,31,Boda,Boda,5010
+6,31,Chotto Dab,Chotto Dab,5040
+6,31,Chotto Dab,Mirjapur,5041
+6,31,Dabiganj,Dabiganj,5020
+6,31,Panchagra Sadar,Panchagar Sadar,5000
+6,31,Tetulia,Tetulia,5030
+6,32,Badarganj,Badarganj,5430
+6,32,Badarganj,Shyampur,5431
+6,32,Gangachara,Gangachara,5410
+6,32,Kaunia,Haragachh,5441
+6,32,Kaunia,Kaunia,5440
+6,32,Mithapukur,Mithapukur,5460
+6,32,Pirgachha,Pirgachha,5450
+6,32,Rangpur Sadar,Alamnagar,5402
+6,32,Rangpur Sadar,Mahiganj,5403
+6,32,Rangpur Sadar,Rangpur Cadet Colleg,5404
+6,32,Rangpur Sadar,Rangpur Carmiecal Col,5405
+6,32,Rangpur Sadar,Rangpur Sadar,5400
+6,32,Rangpur Sadar,Rangpur Upa-Shahar,5401
+6,32,Taraganj,Taraganj,5420
+6,33,Baliadangi,Baliadangi,5140
+6,33,Baliadangi,Lahiri,5141
+6,33,Jibanpur,Jibanpur,5130
+6,33,Pirganj,Pirganj,5110
+6,33,Pirganj,Pirganj,5470
+6,33,Rani Sankail,Nekmarad,5121
+6,33,Rani Sankail,Rani Sankail,5120
+6,33,Thakurgaon Sadar,Ruhia,5103
+6,33,Thakurgaon Sadar,Shibganj,5102
+6,33,Thakurgaon Sadar,Thakurgaon Road,5101
+6,33,Thakurgaon Sadar,Thakurgaon Sadar,5100
+7,51,Azmireeganj,Azmireeganj,3360
+7,51,Bahubal,Bahubal,3310
+7,51,Baniachang,Baniachang,3350
+7,51,Baniachang,Jatrapasha,3351
+7,51,Baniachang,Kadirganj,3352
+7,51,Chunarughat,Chandpurbagan,3321
+7,51,Chunarughat,Chunarughat,3320
+7,51,Chunarughat,Narapati,3322
+7,51,Hobiganj Sadar,Gopaya,3302
+7,51,Hobiganj Sadar,Hobiganj Sadar,3300
+7,51,Hobiganj Sadar,Shaestaganj,3301
+7,51,Kalauk,Kalauk,3340
+7,51,Kalauk,Lakhai,3341
+7,51,Madhabpur,Itakhola,3331
+7,51,Madhabpur,Madhabpur,3330
+7,51,Madhabpur,Saihamnagar,3333
+7,51,Madhabpur,Shahajibazar,3332
+7,51,Nabiganj,Digalbak,3373
+7,51,Nabiganj,Golduba,3372
+7,51,Nabiganj,Goplarbazar,3371
+7,51,Nabiganj,Inathganj,3374
+7,51,Nabiganj,Nabiganj,3370
+7,52,Baralekha,Baralekha,3250
+7,52,Baralekha,Dhakkhinbag,3252
+7,52,Baralekha,Juri,3251
+7,52,Baralekha,Purbashahabajpur,3253
+7,52,Kamalganj,Kamalganj,3220
+7,52,Kamalganj,Keramatnaga,3221
+7,52,Kamalganj,Munshibazar,3224
+7,52,Kamalganj,Patrakhola,3222
+7,52,Kamalganj,Shamsher Nagar,3223
+7,52,Kulaura,Baramchal,3237
+7,52,Kulaura,Kajaldhara,3234
+7,52,Kulaura,Karimpur,3235
+7,52,Kulaura,Kulaura,3230
+7,52,Kulaura,Langla,3232
+7,52,Kulaura,Prithimpasha,3233
+7,52,Kulaura,Tillagaon,3231
+7,52,Moulvibazar Sadar,Afrozganj,3203
+7,52,Moulvibazar Sadar,Barakapan,3201
+7,52,Moulvibazar Sadar,Monumukh,3202
+7,52,Moulvibazar Sadar,Moulvibazar Sadar,3200
+7,52,Rajnagar,Rajnagar,3240
+7,52,Srimangal,Kalighat,3212
+7,52,Srimangal,Khejurichhara,3213
+7,52,Srimangal,Narain Chora,3211
+7,52,Srimangal,Satgaon,3214
+7,52,Srimangal,Srimangal,3210
+7,53,Bishamsarpur,Bishamsapur,3010
+7,53,Chhatak,Chhatak,3080
+7,53,Chhatak,Chhatak Cement Facto,3081
+7,53,Chhatak,Chhatak Paper Mills,3082
+7,53,Chhatak,Chourangi Bazar,3893
+7,53,Chhatak,Gabindaganj,3083
+7,53,Chhatak,Gabindaganj Natun Ba,3084
+7,53,Chhatak,Islamabad,3088
+7,53,Chhatak,jahidpur,3087
+7,53,Chhatak,Khurma,3085
+7,53,Chhatak,Moinpur,3086
+7,53,Dhirai Chandpur,Dhirai Chandpur,3040
+7,53,Dhirai Chandpur,Jagdal,3041
+7,53,Duara bazar,Duara bazar,3070
+7,53,Ghungiar,Ghungiar,3050
+7,53,Jagnnathpur,Atuajan,3062
+7,53,Jagnnathpur,Hasan Fatemapur,3063
+7,53,Jagnnathpur,Jagnnathpur,3060
+7,53,Jagnnathpur,Rasulganj,3064
+7,53,Jagnnathpur,Shiramsi,3065
+7,53,Jagnnathpur,Syedpur,3061
+7,53,Sachna,Sachna,3020
+7,53,Sunamganj Sadar,Pagla,3001
+7,53,Sunamganj Sadar,Patharia,3002
+7,53,Sunamganj Sadar,Sunamganj Sadar,3000
+7,53,Tahirpur,Tahirpur,3030
+7,54,Balaganj,Balaganj,3120
+7,54,Balaganj,Begumpur,3125
+7,54,Balaganj,Brahman Shashon,3122
+7,54,Balaganj,Gaharpur,3128
+7,54,Balaganj,Goala Bazar,3124
+7,54,Balaganj,Karua,3121
+7,54,Balaganj,Kathal Khair,3127
+7,54,Balaganj,Natun Bazar,3129
+7,54,Balaganj,Omarpur,3126
+7,54,Balaganj,Tajpur,3123
+7,54,Bianibazar,Bianibazar,3170
+7,54,Bianibazar,Churkai,3175
+7,54,Bianibazar,jaldup,3171
+7,54,Bianibazar,Kurar bazar,3173
+7,54,Bianibazar,Mathiura,3172
+7,54,Bianibazar,Salia bazar,3174
+7,54,Bishwanath,Bishwanath,3130
+7,54,Bishwanath,Dashghar,3131
+7,54,Bishwanath,Deokalas,3133
+7,54,Bishwanath,Doulathpur,3132
+7,54,Bishwanath,Singer kanch,3134
+7,54,Fenchuganj,Fenchuganj,3116
+7,54,Fenchuganj,Fenchuganj SareKarkh,3117
+7,54,Goainhat,Chiknagul,3152
+7,54,Goainhat,Goainhat,3150
+7,54,Goainhat,Jaflong,3151
+7,54,Gopalganj,banigram,3164
+7,54,Gopalganj,Chandanpur,3165
+7,54,Gopalganj,Dakkhin Bhadashore,3162
+7,54,Gopalganj,Dhaka Dakkhin,3161
+7,54,Gopalganj,Gopalgannj,3160
+7,54,Gopalganj,Ranaping,3163
+7,54,Jaintapur,Jainthapur,3156
+7,54,Jakiganj,Ichhamati,3191
+7,54,Jakiganj,Jakiganj,3190
+7,54,Kanaighat,Chatulbazar,3181
+7,54,Kanaighat,Gachbari,3183
+7,54,Kanaighat,Kanaighat,3180
+7,54,Kanaighat,Manikganj,3182
+7,54,Kompanyganj,Kompanyganj,3140
+7,54,Sylhet Sadar,Birahimpur,3106
+7,54,Sylhet Sadar,Jalalabad,3107
+7,54,Sylhet Sadar,Jalalabad Cantoment,3104
+7,54,Sylhet Sadar,Kadamtali,3111
+7,54,Sylhet Sadar,Kamalbazer,3112
+7,54,Sylhet Sadar,Khadimnagar,3103
+7,54,Sylhet Sadar,Lalbazar,3113
+7,54,Sylhet Sadar,Mogla,3108
+7,54,Sylhet Sadar,Ranga Hajiganj,3109
+7,54,Sylhet Sadar,Shahajalal Science &,3114
+7,54,Sylhet Sadar,Silam,3105
+7,54,Sylhet Sadar,Sylhe Sadar,3100
+7,54,Sylhet Sadar,Sylhet Biman Bondar,3102
+7,54,Sylhet Sadar,Sylhet Cadet Col,3101
